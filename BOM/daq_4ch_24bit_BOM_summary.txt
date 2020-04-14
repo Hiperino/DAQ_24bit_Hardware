@@ -1,0 +1,72 @@
+Components statistics.
+Type	Value	Library:Footprint	Count
+
+C	100n	Capacitor_SMD:C_0805_2012Metric	17
+C	10n	Capacitor_SMD:C_0805_2012Metric	4
+C	10u	Capacitor_SMD:C_0805_2012Metric	4
+C	150p	Capacitor_SMD:C_0805_2012Metric	4
+C	18p	Capacitor_SMD:C_0805_2012Metric	2
+C	1u	Capacitor_SMD:C_0805_2012Metric	10
+C	220n	Capacitor_SMD:C_0805_2012Metric	4
+C	22n	Capacitor_SMD:C_0805_2012Metric	1
+C	2u2	Capacitor_SMD:C_0805_2012Metric	1
+C	47p	Capacitor_SMD:C_0805_2012Metric	2
+C	4u7	Capacitor_SMD:C_0805_2012Metric	3
+C	68n	Capacitor_SMD:C_0805_2012Metric	1
+C	8n6	Capacitor_SMD:C_0805_2012Metric	1
+D	2V7	Diode_SMD:D_SOD-123	1
+D	3V	Diode_SMD:D_SOD-123	2
+D	3V3	Diode_SMD:D_SOD-123	8
+D	GREEN	LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm	1
+D	SMAJ05A	Diode_SMD:D_SMA	1
+D	SMAJ28CA	Diode_SMD:D_SMA	4
+D	UCLAMP3301	Diode_SMD:D_SOD-323	1
+F	250mA	Fuse:Fuse_1206_3216Metric	1
+FL	DLP11SN331HL2L	kz:DLP11x	1
+H	M3	~	4
+J	BNC	Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal	6
+J	USB_B	Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal	1
+JP	RX	Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm	1
+JP	TX	Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm	1
+L	BLM21A601	Inductor_SMD:L_0805_2012Metric	21
+R	100k 0.1%	Resistor_SMD:R_0805_2012Metric	4
+R	10k	Resistor_SMD:R_0805_2012Metric	8
+R	10k 0.1%	Resistor_SMD:R_0805_2012Metric	1
+R	1M 0.1%	Resistor_SMD:R_0805_2012Metric	8
+R	1k	Resistor_SMD:R_0805_2012Metric	4
+R	20k 0.1%	Resistor_SMD:R_0805_2012Metric	1
+R	27R	Resistor_SMD:R_0805_2012Metric	2
+R	360	Resistor_SMD:R_0805_2012Metric	1
+R	39k 0.1%	Resistor_SMD:R_0805_2012Metric	4
+R	51R	Resistor_SMD:R_0805_2012Metric	1
+RN	10k	Resistor_SMD:R_Array_Convex_4x0603	2
+TP	-2V5	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	-5V	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	-VREF	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	2V5	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	3V3	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	5V	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	CH0	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	CH1	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	CH2	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	CH3	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	DIV0	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	DIV1	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	DIV2	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	DIV3	TestPoint:TestPoint_Pad_D1.5mm	1
+TP	GND	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	RX	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	TX	TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm	1
+TP	VREF	TestPoint:TestPoint_Pad_D1.5mm	1
+U	74LVC1G3157	Package_TO_SOT_SMD:SOT-23-6	2
+U	ADP151AUJZ-2.5	Package_TO_SOT_SMD:SOT-23-5	1
+U	ADP151AUJZ-3.3	Package_TO_SOT_SMD:SOT-23-5	1
+U	ADP7182AUJZ-2.5	Package_TO_SOT_SMD:TSOT-23-5	1
+U	ADS122U04	Package_SO:TSSOP-16_4.4x5mm_P0.65mm	1
+U	LM2776	Package_TO_SOT_SMD:SOT-23-6	1
+U	MCP2200-I-SS	Package_SO:SSOP-20_5.3x7.2mm_P0.65mm	1
+U	OPA388DBV	Package_TO_SOT_SMD:SOT-23-5	1
+U	OPA4388	Package_SO:SOIC-14_3.9x8.7mm_P1.27mm	1
+U	REF5020ID	Package_SO:SOIC-8_3.9x4.9mm_P1.27mm	1
+U	TPD2E007	Package_TO_SOT_SMD:SOT-323_SC-70	1
+U	TS5A3359DCU	Package_SO:VSSOP-8_2.3x2mm_P0.5mm	4
